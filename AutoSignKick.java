@@ -13,6 +13,7 @@ import net.minecraft.util.EnumFacing;
 import net.minecraft.util.EnumHand;
 import net.minecraft.util.math.BlockPos;
 
+// BEWARE! EXTREME CHINA CODE AHEAD
 public class AutoSignKick extends Module {
     // author: noatmc and derpyjibs :D (finished at 14:51 GMT+ 7 16/09/2021)
     Setting<Integer> switchDelay = this.register(new Setting<>("SwitchDelay", 100, 0, 5000));
