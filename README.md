@@ -1,4 +1,4 @@
-# AutoSignKick
+# AutoSignKick | pretty much useless for someone who know what mouse is
 - a chinese module that helps you left click and right click at mach 10 speed
 # How to use
 - have a efficiency 4-5 dia axe
